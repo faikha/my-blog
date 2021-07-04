@@ -1,8 +1,7 @@
 ---
 title: My Second Article
 image: https://source.unsplash.com/random/2
-abstract: |-
-  consectetur adipiscing elit.
+abstract: consectetur adipiscing elit.
 author: Mario Bross
 date: 2020-01-07T17:43:37.669Z
 ---

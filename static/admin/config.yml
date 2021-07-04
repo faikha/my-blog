@@ -17,4 +17,4 @@ collections:
       - {label: 'Image', name: 'image', widget: 'image'}
       - {label: 'Author', name: 'author', widget: 'string'}
       - {label: 'Date', name: 'date', widget: 'datetime'}
-      - {label: 'Body', name: 'body', widget: 'markdown'}
+      - {label: 'Content', name: 'content', widget: 'markdown'}
